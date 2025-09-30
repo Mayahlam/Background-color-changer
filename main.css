@@ -1,0 +1,75 @@
+#container{
+    display: flex;
+    flex-direction: row;
+}
+#red {
+    background-color: red;
+    width: 100px;
+    height: 20px;
+    padding: 40px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    border: 2px solid rgb(184, 5, 5);
+    
+}
+#orange {
+    background-color: orange;
+    width: 100px;
+    height: 20px;
+    padding: 40px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    border: 2px solid rgb(179, 119, 6);
+}
+#yellow {
+    background-color: yellow;
+    width: 100px;
+    height: 20px;
+    padding: 40px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    border: 2px solid rgb(212, 212, 8);
+}
+#green {
+    background-color: green;
+    width: 100px;
+    height: 20px;
+    padding: 40px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    border: 2px solid rgb(20, 161, 20);
+}
+#blue {
+    background-color: blue;
+    width: 100px;
+    height: 20px;
+    padding: 40px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    border: 2px solid rgb(9, 9, 197);
+}
+#indigo {
+    background-color: indigo;
+    width: 100px;
+    height: 20px;
+    padding: 40px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    border: 2px solid rgb(50, 7, 80);
+}
+#violet {
+    background-color: violet;
+    width: 100px;
+    height: 20px;
+    padding: 40px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    border: 2px solid rgb(163, 7, 163);
+}
